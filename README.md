@@ -65,7 +65,7 @@ allure serve ./features/artifacts/reports
 Note: Remember that `artifacts` folder (including screenshots and reports) would be cleared automatically when the next test run starts.
 
 ### Screenshot
-![success](./resources/success_report.png)
+![success](resourcesuccess_report.png)
 
 
 ### Contribute to this Example

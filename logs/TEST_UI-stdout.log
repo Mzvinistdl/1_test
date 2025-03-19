@@ -8398,3 +8398,1471 @@ NoSuchElementError: An element could not be located on the page using the given 
 
 [2025-03-17 09:54:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Zcc" 0.18026423454284668s 
 
+[2025-03-18 14:00:23] setting capabilities: {'chromeOptions': {'w3c': False}, 'chromedriverArgs': ['relaxed security'], 'chromeDriverPort': 8100, 'systemPort': 8200, 'appPackage': 'com.example.appfortestautomation', 'appActivity': 'com.example.appfortestautomation.MainActivity', 'adbExecTimeout': 30000, 'platformName': 'android', 'automationName': 'UiAutomator2', 'deviceName': 'Device', 'enforceAppInstall': True, 'udid': 'RFCWB13GMAA'}
+[2025-03-18 14:00:23] starting appium driver...
+[2025-03-18 14:00:23] running: appium -p 4723
+[2025-03-18 14:00:23] setting device for automation: RFCWB13GMAA
+[2025-03-18 14:00:38] appium running on http://localhost:4723. 
+
+[2025-03-18 14:00:39] Device: element "id: headerTitle" has attribute "text" -> "HomeScreen" = "HomeScreen" after 0.6766459941864014s 
+
+[2025-03-18 14:00:39] Device: element "id: headerTitle" has attribute "text" -> "HomeScreen" = "HomeScreen" after 0.08631396293640137s 
+
+[2025-03-18 14:00:39] Device: element "id: headerTitle" has attribute "text" -> "HomeScreen" = "HomeScreen" after 0.07670092582702637s 
+
+[2025-03-18 14:00:39] Device: element "className: android.widget.Button" pressed for 0.15279936790466309s 
+
+[2025-03-18 14:00:41] Device: Element "xpath: //*[contains(@text, 'Part 2')]" was visible in 1.3069429397583008s 
+
+[2025-03-18 14:00:41] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-18 14:00:41] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "---A" 0.14466500282287598s 
+
+[2025-03-18 14:00:41] Element 1 text: ---A
+[2025-03-18 14:00:41] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-18 14:00:41] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Acura" 0.1693117618560791s 
+
+[2025-03-18 14:00:41] Element 2 text: Acura
+[2025-03-18 14:00:41] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-18 14:00:42] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "Alfa Romeo" 0.09078288078308105s 
+
+[2025-03-18 14:00:42] Element 3 text: Alfa Romeo
+[2025-03-18 14:00:42] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-18 14:00:42] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "Audi" 0.1813952922821045s 
+
+[2025-03-18 14:00:42] Element 4 text: Audi
+[2025-03-18 14:00:42] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-18 14:00:42] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "---B" 0.21181201934814453s 
+
+[2025-03-18 14:00:42] Element 5 text: ---B
+[2025-03-18 14:00:42] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-18 14:00:43] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "BMW" 0.18557524681091309s 
+
+[2025-03-18 14:00:43] Element 6 text: BMW
+[2025-03-18 14:00:43] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-18 14:00:43] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Bentley" 0.18685269355773926s 
+
+[2025-03-18 14:00:43] Element 7 text: Bentley
+[2025-03-18 14:00:43] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-18 14:00:43] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Buick" 0.17719006538391113s 
+
+[2025-03-18 14:00:43] Element 8 text: Buick
+[2025-03-18 14:00:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-18 14:00:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "---C" 0.15338993072509766s 
+
+[2025-03-18 14:00:44] Element 9 text: ---C
+[2025-03-18 14:00:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-18 14:00:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Cadillac" 0.18326377868652344s 
+
+[2025-03-18 14:00:44] Element 10 text: Cadillac
+[2025-03-18 14:00:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-18 14:00:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "Chevrolet" 0.18246006965637207s 
+
+[2025-03-18 14:00:44] Element 11 text: Chevrolet
+[2025-03-18 14:00:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-18 14:00:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Chrysler" 0.14623093605041504s 
+
+[2025-03-18 14:00:45] Element 12 text: Chrysler
+[2025-03-18 14:00:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-18 14:00:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "---D" 0.14472293853759766s 
+
+[2025-03-18 14:00:45] Element 13 text: ---D
+[2025-03-18 14:00:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-18 14:00:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "Dodge" 0.16809296607971191s 
+
+[2025-03-18 14:00:45] Element 14 text: Dodge
+[2025-03-18 14:00:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-18 14:00:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "---E" 0.17853808403015137s 
+
+[2025-03-18 14:00:46] Element 15 text: ---E
+[2025-03-18 14:00:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-18 14:00:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "---F" 0.16515684127807617s 
+
+[2025-03-18 14:00:46] Element 16 text: ---F
+[2025-03-18 14:00:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-18 14:00:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Fiat" 0.16935491561889648s 
+
+[2025-03-18 14:00:46] Element 17 text: Fiat
+[2025-03-18 14:00:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-18 14:00:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Ford" 0.17209792137145996s 
+
+[2025-03-18 14:00:47] Element 18 text: Ford
+[2025-03-18 14:00:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is not visible 
+
+[2025-03-18 14:00:51] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-18 14:00:52] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Fiat" 0.15054988861083984s 
+
+[2025-03-18 14:00:52] Element 1 text: Fiat
+[2025-03-18 14:00:52] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-18 14:00:52] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Ford" 0.18610620498657227s 
+
+[2025-03-18 14:00:52] Element 2 text: Ford
+[2025-03-18 14:00:52] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-18 14:00:52] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "---G" 0.15818190574645996s 
+
+[2025-03-18 14:00:52] Element 3 text: ---G
+[2025-03-18 14:00:52] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-18 14:00:52] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "GMC" 0.1583881378173828s 
+
+[2025-03-18 14:00:52] Element 4 text: GMC
+[2025-03-18 14:00:53] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-18 14:00:53] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "Genesis" 0.18267202377319336s 
+
+[2025-03-18 14:00:53] Element 5 text: Genesis
+[2025-03-18 14:00:53] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-18 14:00:53] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "---H" 0.15656709671020508s 
+
+[2025-03-18 14:00:53] Element 6 text: ---H
+[2025-03-18 14:00:53] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-18 14:00:53] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Honda" 0.16009807586669922s 
+
+[2025-03-18 14:00:53] Element 7 text: Honda
+[2025-03-18 14:00:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-18 14:00:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Hyundai" 0.1700911521911621s 
+
+[2025-03-18 14:00:54] Element 8 text: Hyundai
+[2025-03-18 14:00:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-18 14:00:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "---I" 0.15998315811157227s 
+
+[2025-03-18 14:00:54] Element 9 text: ---I
+[2025-03-18 14:00:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-18 14:00:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Infiniti" 0.15448904037475586s 
+
+[2025-03-18 14:00:54] Element 10 text: Infiniti
+[2025-03-18 14:00:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-18 14:00:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "---J" 0.17348384857177734s 
+
+[2025-03-18 14:00:55] Element 11 text: ---J
+[2025-03-18 14:00:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-18 14:00:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Jaguar" 0.16736412048339844s 
+
+[2025-03-18 14:00:55] Element 12 text: Jaguar
+[2025-03-18 14:00:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-18 14:00:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "Jeep" 0.14159417152404785s 
+
+[2025-03-18 14:00:55] Element 13 text: Jeep
+[2025-03-18 14:00:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-18 14:00:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---K" 0.18550395965576172s 
+
+[2025-03-18 14:00:56] Element 14 text: ---K
+[2025-03-18 14:00:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-18 14:00:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "Kia" 0.17343902587890625s 
+
+[2025-03-18 14:00:56] Element 15 text: Kia
+[2025-03-18 14:00:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-18 14:00:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "---L" 0.15160822868347168s 
+
+[2025-03-18 14:00:56] Element 16 text: ---L
+[2025-03-18 14:00:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-18 14:00:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Land Rover" 0.15114378929138184s 
+
+[2025-03-18 14:00:57] Element 17 text: Land Rover
+[2025-03-18 14:00:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-18 14:00:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Lexus" 0.1182858943939209s 
+
+[2025-03-18 14:00:57] Element 18 text: Lexus
+[2025-03-18 14:00:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is visible 
+
+[2025-03-18 14:00:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" has text "Lincoln" 0.16655492782592773s 
+
+[2025-03-18 14:00:57] Element 19 text: Lincoln
+[2025-03-18 14:00:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][20]" is not visible 
+
+[2025-03-18 14:01:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-18 14:01:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Lexus" 0.14703106880187988s 
+
+[2025-03-18 14:01:02] Element 1 text: Lexus
+[2025-03-18 14:01:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-18 14:01:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Lincoln" 0.17918705940246582s 
+
+[2025-03-18 14:01:02] Element 2 text: Lincoln
+[2025-03-18 14:01:03] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-18 14:01:03] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "Lotus" 0.15368032455444336s 
+
+[2025-03-18 14:01:03] Element 3 text: Lotus
+[2025-03-18 14:01:03] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-18 14:01:03] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "---M" 0.14584684371948242s 
+
+[2025-03-18 14:01:03] Element 4 text: ---M
+[2025-03-18 14:01:03] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-18 14:01:03] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "Maserati" 0.14680767059326172s 
+
+[2025-03-18 14:01:03] Element 5 text: Maserati
+[2025-03-18 14:01:03] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-18 14:01:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "Mazda" 0.14015603065490723s 
+
+[2025-03-18 14:01:04] Element 6 text: Mazda
+[2025-03-18 14:01:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-18 14:01:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Mercedes-Benz" 0.15424513816833496s 
+
+[2025-03-18 14:01:04] Element 7 text: Mercedes-Benz
+[2025-03-18 14:01:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-18 14:01:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Mercury*" 0.12792015075683594s 
+
+[2025-03-18 14:01:04] Element 8 text: Mercury*
+[2025-03-18 14:01:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-18 14:01:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "Mini" 0.13306593894958496s 
+
+[2025-03-18 14:01:04] Element 9 text: Mini
+[2025-03-18 14:01:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-18 14:01:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Mitsubishi" 0.1492149829864502s 
+
+[2025-03-18 14:01:05] Element 10 text: Mitsubishi
+[2025-03-18 14:01:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-18 14:01:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "---N" 0.1519620418548584s 
+
+[2025-03-18 14:01:05] Element 11 text: ---N
+[2025-03-18 14:01:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-18 14:01:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Nikola" 0.14413809776306152s 
+
+[2025-03-18 14:01:05] Element 12 text: Nikola
+[2025-03-18 14:01:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-18 14:01:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "Nissan" 0.17147421836853027s 
+
+[2025-03-18 14:01:06] Element 13 text: Nissan
+[2025-03-18 14:01:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-18 14:01:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---O" 0.16256308555603027s 
+
+[2025-03-18 14:01:06] Element 14 text: ---O
+[2025-03-18 14:01:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-18 14:01:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "---P" 0.1474912166595459s 
+
+[2025-03-18 14:01:06] Element 15 text: ---P
+[2025-03-18 14:01:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-18 14:01:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "Polestar" 0.14841723442077637s 
+
+[2025-03-18 14:01:07] Element 16 text: Polestar
+[2025-03-18 14:01:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-18 14:01:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Pontiac*" 0.1611180305480957s 
+
+[2025-03-18 14:01:07] Element 17 text: Pontiac*
+[2025-03-18 14:01:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-18 14:01:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Porsche" 0.16849374771118164s 
+
+[2025-03-18 14:01:07] Element 18 text: Porsche
+[2025-03-18 14:01:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is visible 
+
+[2025-03-18 14:01:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" has text "---Q" 0.17255377769470215s 
+
+[2025-03-18 14:01:07] Element 19 text: ---Q
+[2025-03-18 14:01:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][20]" is not visible 
+
+[2025-03-18 14:01:12] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-18 14:01:12] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Porsche" 0.13494205474853516s 
+
+[2025-03-18 14:01:12] Element 1 text: Porsche
+[2025-03-18 14:01:12] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-18 14:01:13] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "---Q" 0.13512706756591797s 
+
+[2025-03-18 14:01:13] Element 2 text: ---Q
+[2025-03-18 14:01:13] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-18 14:01:13] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "---R" 0.14374494552612305s 
+
+[2025-03-18 14:01:13] Element 3 text: ---R
+[2025-03-18 14:01:13] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-18 14:01:13] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "Ram" 0.1228330135345459s 
+
+[2025-03-18 14:01:13] Element 4 text: Ram
+[2025-03-18 14:01:13] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-18 14:01:13] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "Rivian" 0.14145207405090332s 
+
+[2025-03-18 14:01:13] Element 5 text: Rivian
+[2025-03-18 14:01:14] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-18 14:01:14] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "Rolls-Royce" 0.15378093719482422s 
+
+[2025-03-18 14:01:14] Element 6 text: Rolls-Royce
+[2025-03-18 14:01:14] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-18 14:01:14] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "---S" 0.1336839199066162s 
+
+[2025-03-18 14:01:14] Element 7 text: ---S
+[2025-03-18 14:01:14] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-18 14:01:14] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Saab" 0.13411903381347656s 
+
+[2025-03-18 14:01:14] Element 8 text: Saab
+[2025-03-18 14:01:14] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-18 14:01:14] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "Saturn*" 0.1479020118713379s 
+
+[2025-03-18 14:01:14] Element 9 text: Saturn*
+[2025-03-18 14:01:15] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-18 14:01:15] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Scion*" 0.1345210075378418s 
+
+[2025-03-18 14:01:15] Element 10 text: Scion*
+[2025-03-18 14:01:15] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-18 14:01:15] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "Smart" 0.14375782012939453s 
+
+[2025-03-18 14:01:15] Element 11 text: Smart
+[2025-03-18 14:01:15] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-18 14:01:15] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Subaru" 0.1444718837738037s 
+
+[2025-03-18 14:01:15] Element 12 text: Subaru
+[2025-03-18 14:01:15] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-18 14:01:16] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "Suzuki*" 0.16237378120422363s 
+
+[2025-03-18 14:01:16] Element 13 text: Suzuki*
+[2025-03-18 14:01:16] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-18 14:01:16] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---T" 0.1539592742919922s 
+
+[2025-03-18 14:01:16] Element 14 text: ---T
+[2025-03-18 14:01:16] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-18 14:01:16] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "Tesla" 0.13702607154846191s 
+
+[2025-03-18 14:01:16] Element 15 text: Tesla
+[2025-03-18 14:01:16] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-18 14:01:17] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "Toyota" 0.14501023292541504s 
+
+[2025-03-18 14:01:17] Element 16 text: Toyota
+[2025-03-18 14:01:17] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-18 14:01:17] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "---U" 0.1336808204650879s 
+
+[2025-03-18 14:01:17] Element 17 text: ---U
+[2025-03-18 14:01:17] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-18 14:01:17] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "---V" 0.13754796981811523s 
+
+[2025-03-18 14:01:17] Element 18 text: ---V
+[2025-03-18 14:01:17] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is visible 
+
+[2025-03-18 14:01:17] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" has text "Volkswagen" 0.1401982307434082s 
+
+[2025-03-18 14:01:17] Element 19 text: Volkswagen
+[2025-03-18 14:01:17] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][20]" is not visible 
+
+[2025-03-18 14:01:22] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-18 14:01:22] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Scion*" 0.1226038932800293s 
+
+[2025-03-18 14:01:22] Element 1 text: Scion*
+[2025-03-18 14:01:22] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-18 14:01:22] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Smart" 0.14832687377929688s 
+
+[2025-03-18 14:01:22] Element 2 text: Smart
+[2025-03-18 14:01:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-18 14:01:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "Subaru" 0.13592314720153809s 
+
+[2025-03-18 14:01:23] Element 3 text: Subaru
+[2025-03-18 14:01:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-18 14:01:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "Suzuki*" 0.15381598472595215s 
+
+[2025-03-18 14:01:23] Element 4 text: Suzuki*
+[2025-03-18 14:01:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-18 14:01:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "---T" 0.1392052173614502s 
+
+[2025-03-18 14:01:23] Element 5 text: ---T
+[2025-03-18 14:01:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-18 14:01:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "Tesla" 0.1256248950958252s 
+
+[2025-03-18 14:01:24] Element 6 text: Tesla
+[2025-03-18 14:01:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-18 14:01:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Toyota" 0.1572880744934082s 
+
+[2025-03-18 14:01:24] Element 7 text: Toyota
+[2025-03-18 14:01:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-18 14:01:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "---U" 0.12970590591430664s 
+
+[2025-03-18 14:01:24] Element 8 text: ---U
+[2025-03-18 14:01:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-18 14:01:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "---V" 0.11609697341918945s 
+
+[2025-03-18 14:01:24] Element 9 text: ---V
+[2025-03-18 14:01:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-18 14:01:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Volkswagen" 0.14682698249816895s 
+
+[2025-03-18 14:01:25] Element 10 text: Volkswagen
+[2025-03-18 14:01:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-18 14:01:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "Volvo" 0.1432631015777588s 
+
+[2025-03-18 14:01:25] Element 11 text: Volvo
+[2025-03-18 14:01:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-18 14:01:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "---W" 0.12977099418640137s 
+
+[2025-03-18 14:01:25] Element 12 text: ---W
+[2025-03-18 14:01:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-18 14:01:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "---X" 0.1361229419708252s 
+
+[2025-03-18 14:01:25] Element 13 text: ---X
+[2025-03-18 14:01:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-18 14:01:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---Y" 0.13006806373596191s 
+
+[2025-03-18 14:01:26] Element 14 text: ---Y
+[2025-03-18 14:01:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-18 14:01:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "---Z" 0.12677979469299316s 
+
+[2025-03-18 14:01:26] Element 15 text: ---Z
+[2025-03-18 14:01:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-18 14:01:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "Zaa" 0.13735389709472656s 
+
+[2025-03-18 14:01:26] Element 16 text: Zaa
+[2025-03-18 14:01:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-18 14:01:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Zbb" 0.1358499526977539s 
+
+[2025-03-18 14:01:26] Element 17 text: Zbb
+[2025-03-18 14:01:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-18 14:01:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Zcc" 0.1418919563293457s 
+
+[2025-03-18 14:01:27] Element 18 text: Zcc
+[2025-03-18 14:19:08] setting capabilities: {'chromeOptions': {'w3c': False}, 'chromedriverArgs': ['relaxed security'], 'chromeDriverPort': 8100, 'systemPort': 8200, 'appPackage': 'com.example.appfortestautomation', 'appActivity': 'com.example.appfortestautomation.MainActivity', 'adbExecTimeout': 30000, 'platformName': 'android', 'automationName': 'UiAutomator2', 'deviceName': 'Device', 'enforceAppInstall': True, 'udid': 'RFCWB13GMAA'}
+[2025-03-18 14:19:08] starting appium driver...
+[2025-03-18 14:19:08] running: appium -p 4723
+[2025-03-18 14:19:08] setting device for automation: RFCWB13GMAA
+[2025-03-18 14:19:23] appium running on http://localhost:4723. 
+
+[2025-03-18 14:19:23] Device: element "id: headerTitle" has attribute "text" -> "HomeScreen" = "HomeScreen" after 0.6623899936676025s 
+
+[2025-03-18 14:19:24] Device: element "id: headerTitle" has attribute "text" -> "HomeScreen" = "HomeScreen" after 0.08776998519897461s 
+
+[2025-03-18 14:19:24] Device: element "id: headerTitle" has attribute "text" -> "HomeScreen" = "HomeScreen" after 0.0812067985534668s 
+
+[2025-03-18 14:19:24] Device: element "className: android.widget.Button" pressed for 0.14214873313903809s 
+
+[2025-03-18 14:19:25] Device: Element "xpath: //*[contains(@text, 'Part 2')]" was visible in 1.300872802734375s 
+
+[2025-03-18 14:19:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-18 14:19:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "---A" 0.18878602981567383s 
+
+[2025-03-18 14:19:25] Element 1 text: ---A
+[2025-03-18 14:19:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-18 14:19:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Acura" 0.1796269416809082s 
+
+[2025-03-18 14:19:26] Element 2 text: Acura
+[2025-03-18 14:19:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-18 14:19:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "Alfa Romeo" 0.16830706596374512s 
+
+[2025-03-18 14:19:26] Element 3 text: Alfa Romeo
+[2025-03-18 14:19:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-18 14:19:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "Audi" 0.17569422721862793s 
+
+[2025-03-18 14:19:27] Element 4 text: Audi
+[2025-03-18 14:19:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-18 14:19:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "---B" 0.1467571258544922s 
+
+[2025-03-18 14:19:27] Element 5 text: ---B
+[2025-03-18 14:19:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-18 14:19:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "BMW" 0.22075700759887695s 
+
+[2025-03-18 14:19:27] Element 6 text: BMW
+[2025-03-18 14:19:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-18 14:19:28] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Bentley" 0.16039490699768066s 
+
+[2025-03-18 14:19:28] Element 7 text: Bentley
+[2025-03-18 14:19:28] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-18 14:19:28] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Buick" 0.20087814331054688s 
+
+[2025-03-18 14:19:28] Element 8 text: Buick
+[2025-03-18 14:19:28] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-18 14:19:28] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "---C" 0.18611717224121094s 
+
+[2025-03-18 14:19:28] Element 9 text: ---C
+[2025-03-18 14:19:29] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-18 14:19:29] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Cadillac" 0.16683506965637207s 
+
+[2025-03-18 14:19:29] Element 10 text: Cadillac
+[2025-03-18 14:19:29] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-18 14:19:29] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "Chevrolet" 0.20533299446105957s 
+
+[2025-03-18 14:19:29] Element 11 text: Chevrolet
+[2025-03-18 14:19:29] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-18 14:19:29] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Chrysler" 0.17795896530151367s 
+
+[2025-03-18 14:19:29] Element 12 text: Chrysler
+[2025-03-18 14:19:30] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-18 14:19:30] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "---D" 0.18860411643981934s 
+
+[2025-03-18 14:19:30] Element 13 text: ---D
+[2025-03-18 14:19:30] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-18 14:19:30] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "Dodge" 0.16194629669189453s 
+
+[2025-03-18 14:19:30] Element 14 text: Dodge
+[2025-03-18 14:19:30] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-18 14:19:30] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "---E" 0.1557621955871582s 
+
+[2025-03-18 14:19:30] Element 15 text: ---E
+[2025-03-18 14:19:31] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-18 14:19:31] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "---F" 0.16634702682495117s 
+
+[2025-03-18 14:19:31] Element 16 text: ---F
+[2025-03-18 14:19:31] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-18 14:19:31] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Fiat" 0.16805791854858398s 
+
+[2025-03-18 14:19:31] Element 17 text: Fiat
+[2025-03-18 14:19:31] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-18 14:19:31] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Ford" 0.1803748607635498s 
+
+[2025-03-18 14:19:31] Element 18 text: Ford
+[2025-03-18 14:19:32] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is not visible 
+
+[2025-03-18 14:19:36] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-18 14:19:36] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Fiat" 0.17918181419372559s 
+
+[2025-03-18 14:19:36] Element 1 text: Fiat
+[2025-03-18 14:19:36] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-18 14:19:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Ford" 0.139357328414917s 
+
+[2025-03-18 14:19:37] Element 2 text: Ford
+[2025-03-18 14:19:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-18 14:19:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "---G" 0.16304588317871094s 
+
+[2025-03-18 14:19:37] Element 3 text: ---G
+[2025-03-18 14:19:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-18 14:19:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "GMC" 0.13395404815673828s 
+
+[2025-03-18 14:19:37] Element 4 text: GMC
+[2025-03-18 14:19:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-18 14:19:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "Genesis" 0.16333699226379395s 
+
+[2025-03-18 14:19:38] Element 5 text: Genesis
+[2025-03-18 14:19:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-18 14:19:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "---H" 0.13708996772766113s 
+
+[2025-03-18 14:19:38] Element 6 text: ---H
+[2025-03-18 14:19:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-18 14:19:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Honda" 0.13530898094177246s 
+
+[2025-03-18 14:19:38] Element 7 text: Honda
+[2025-03-18 14:19:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-18 14:19:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Hyundai" 0.15380001068115234s 
+
+[2025-03-18 14:19:38] Element 8 text: Hyundai
+[2025-03-18 14:19:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-18 14:19:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "---I" 0.16126012802124023s 
+
+[2025-03-18 14:19:39] Element 9 text: ---I
+[2025-03-18 14:19:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-18 14:19:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Infiniti" 0.14513492584228516s 
+
+[2025-03-18 14:19:39] Element 10 text: Infiniti
+[2025-03-18 14:19:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-18 14:19:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "---J" 0.15468215942382812s 
+
+[2025-03-18 14:19:39] Element 11 text: ---J
+[2025-03-18 14:19:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-18 14:19:40] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Jaguar" 0.13247323036193848s 
+
+[2025-03-18 14:19:40] Element 12 text: Jaguar
+[2025-03-18 14:19:40] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-18 14:19:40] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "Jeep" 0.1517796516418457s 
+
+[2025-03-18 14:19:40] Element 13 text: Jeep
+[2025-03-18 14:19:40] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-18 14:19:40] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---K" 0.1474769115447998s 
+
+[2025-03-18 14:19:40] Element 14 text: ---K
+[2025-03-18 14:19:40] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-18 14:19:40] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "Kia" 0.10717892646789551s 
+
+[2025-03-18 14:19:40] Element 15 text: Kia
+[2025-03-18 14:19:41] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-18 14:19:41] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "---L" 0.15005278587341309s 
+
+[2025-03-18 14:19:41] Element 16 text: ---L
+[2025-03-18 14:19:41] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-18 14:19:41] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Land Rover" 0.14669108390808105s 
+
+[2025-03-18 14:19:41] Element 17 text: Land Rover
+[2025-03-18 14:19:41] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-18 14:19:41] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Lexus" 0.15747690200805664s 
+
+[2025-03-18 14:19:41] Element 18 text: Lexus
+[2025-03-18 14:19:42] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is visible 
+
+[2025-03-18 14:19:42] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" has text "Lincoln" 0.1465749740600586s 
+
+[2025-03-18 14:19:42] Element 19 text: Lincoln
+[2025-03-18 14:19:42] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][20]" is not visible 
+
+[2025-03-18 14:19:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-18 14:19:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Lexus" 0.1621701717376709s 
+
+[2025-03-18 14:19:47] Element 1 text: Lexus
+[2025-03-18 14:19:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-18 14:19:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Lincoln" 0.14124298095703125s 
+
+[2025-03-18 14:19:47] Element 2 text: Lincoln
+[2025-03-18 14:19:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-18 14:19:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "Lotus" 0.1519150733947754s 
+
+[2025-03-18 14:19:47] Element 3 text: Lotus
+[2025-03-18 14:19:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-18 14:19:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "---M" 0.13996005058288574s 
+
+[2025-03-18 14:19:47] Element 4 text: ---M
+[2025-03-18 14:19:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-18 14:19:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "Maserati" 0.1831371784210205s 
+
+[2025-03-18 14:19:48] Element 5 text: Maserati
+[2025-03-18 14:19:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-18 14:19:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "Mazda" 0.15494203567504883s 
+
+[2025-03-18 14:19:48] Element 6 text: Mazda
+[2025-03-18 14:19:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-18 14:19:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Mercedes-Benz" 0.16539597511291504s 
+
+[2025-03-18 14:19:48] Element 7 text: Mercedes-Benz
+[2025-03-18 14:19:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-18 14:19:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Mercury*" 0.13137269020080566s 
+
+[2025-03-18 14:19:49] Element 8 text: Mercury*
+[2025-03-18 14:19:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-18 14:19:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "Mini" 0.13315105438232422s 
+
+[2025-03-18 14:19:49] Element 9 text: Mini
+[2025-03-18 14:19:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-18 14:19:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Mitsubishi" 0.14642095565795898s 
+
+[2025-03-18 14:19:49] Element 10 text: Mitsubishi
+[2025-03-18 14:19:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-18 14:19:50] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "---N" 0.15785789489746094s 
+
+[2025-03-18 14:19:50] Element 11 text: ---N
+[2025-03-18 14:19:50] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-18 14:19:50] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Nikola" 0.14670300483703613s 
+
+[2025-03-18 14:19:50] Element 12 text: Nikola
+[2025-03-18 14:19:50] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-18 14:19:50] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "Nissan" 0.13878107070922852s 
+
+[2025-03-18 14:19:50] Element 13 text: Nissan
+[2025-03-18 14:19:50] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-18 14:19:50] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---O" 0.13942337036132812s 
+
+[2025-03-18 14:19:50] Element 14 text: ---O
+[2025-03-18 14:19:51] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-18 14:19:51] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "---P" 0.1542210578918457s 
+
+[2025-03-18 14:19:51] Element 15 text: ---P
+[2025-03-18 14:19:51] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-18 14:19:51] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "Polestar" 0.11941242218017578s 
+
+[2025-03-18 14:19:51] Element 16 text: Polestar
+[2025-03-18 14:19:51] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-18 14:19:51] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Pontiac*" 0.11319327354431152s 
+
+[2025-03-18 14:19:51] Element 17 text: Pontiac*
+[2025-03-18 14:19:51] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-18 14:19:52] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Porsche" 0.13168883323669434s 
+
+[2025-03-18 14:19:52] Element 18 text: Porsche
+[2025-03-18 14:19:52] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is visible 
+
+[2025-03-18 14:19:52] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" has text "---Q" 0.1329479217529297s 
+
+[2025-03-18 14:19:52] Element 19 text: ---Q
+[2025-03-18 14:19:52] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][20]" is not visible 
+
+[2025-03-18 14:19:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-18 14:19:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Porsche" 0.13378405570983887s 
+
+[2025-03-18 14:19:57] Element 1 text: Porsche
+[2025-03-18 14:19:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-18 14:19:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "---Q" 0.1417829990386963s 
+
+[2025-03-18 14:19:57] Element 2 text: ---Q
+[2025-03-18 14:19:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-18 14:19:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "---R" 0.1565101146697998s 
+
+[2025-03-18 14:19:57] Element 3 text: ---R
+[2025-03-18 14:19:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-18 14:19:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "Ram" 0.16095399856567383s 
+
+[2025-03-18 14:19:57] Element 4 text: Ram
+[2025-03-18 14:19:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-18 14:19:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "Rivian" 0.16930508613586426s 
+
+[2025-03-18 14:19:58] Element 5 text: Rivian
+[2025-03-18 14:19:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-18 14:19:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "Rolls-Royce" 0.12929368019104004s 
+
+[2025-03-18 14:19:58] Element 6 text: Rolls-Royce
+[2025-03-18 14:19:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-18 14:19:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "---S" 0.1402287483215332s 
+
+[2025-03-18 14:19:58] Element 7 text: ---S
+[2025-03-18 14:19:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-18 14:19:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Saab" 0.14356493949890137s 
+
+[2025-03-18 14:19:59] Element 8 text: Saab
+[2025-03-18 14:19:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-18 14:19:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "Saturn*" 0.11905026435852051s 
+
+[2025-03-18 14:19:59] Element 9 text: Saturn*
+[2025-03-18 14:19:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-18 14:19:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Scion*" 0.14066505432128906s 
+
+[2025-03-18 14:19:59] Element 10 text: Scion*
+[2025-03-18 14:19:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-18 14:20:00] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "Smart" 0.7094249725341797s 
+
+[2025-03-18 14:20:00] Element 11 text: Smart
+[2025-03-18 14:20:00] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-18 14:20:00] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Subaru" 0.14887118339538574s 
+
+[2025-03-18 14:20:00] Element 12 text: Subaru
+[2025-03-18 14:20:01] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-18 14:20:01] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "Suzuki*" 0.13766980171203613s 
+
+[2025-03-18 14:20:01] Element 13 text: Suzuki*
+[2025-03-18 14:20:01] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-18 14:20:01] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---T" 0.13422107696533203s 
+
+[2025-03-18 14:20:01] Element 14 text: ---T
+[2025-03-18 14:20:01] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-18 14:20:01] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "Tesla" 0.13974595069885254s 
+
+[2025-03-18 14:20:01] Element 15 text: Tesla
+[2025-03-18 14:20:01] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-18 14:20:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "Toyota" 0.1580638885498047s 
+
+[2025-03-18 14:20:02] Element 16 text: Toyota
+[2025-03-18 14:20:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-18 14:20:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "---U" 0.172072172164917s 
+
+[2025-03-18 14:20:02] Element 17 text: ---U
+[2025-03-18 14:20:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-18 14:20:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "---V" 0.1282041072845459s 
+
+[2025-03-18 14:20:02] Element 18 text: ---V
+[2025-03-18 14:20:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is visible 
+
+[2025-03-18 14:20:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" has text "Volkswagen" 0.12053132057189941s 
+
+[2025-03-18 14:20:02] Element 19 text: Volkswagen
+[2025-03-18 14:20:02] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][20]" is not visible 
+
+[2025-03-18 14:20:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-18 14:20:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Scion*" 0.12823200225830078s 
+
+[2025-03-18 14:20:07] Element 1 text: Scion*
+[2025-03-18 14:20:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-18 14:20:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Smart" 0.15847086906433105s 
+
+[2025-03-18 14:20:07] Element 2 text: Smart
+[2025-03-18 14:20:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-18 14:20:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "Subaru" 0.15948915481567383s 
+
+[2025-03-18 14:20:08] Element 3 text: Subaru
+[2025-03-18 14:20:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-18 14:20:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "Suzuki*" 0.13812494277954102s 
+
+[2025-03-18 14:20:08] Element 4 text: Suzuki*
+[2025-03-18 14:20:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-18 14:20:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "---T" 0.15181612968444824s 
+
+[2025-03-18 14:20:08] Element 5 text: ---T
+[2025-03-18 14:20:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-18 14:20:09] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "Tesla" 0.1615438461303711s 
+
+[2025-03-18 14:20:09] Element 6 text: Tesla
+[2025-03-18 14:20:09] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-18 14:20:09] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Toyota" 0.14110803604125977s 
+
+[2025-03-18 14:20:09] Element 7 text: Toyota
+[2025-03-18 14:20:09] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-18 14:20:09] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "---U" 0.13270974159240723s 
+
+[2025-03-18 14:20:09] Element 8 text: ---U
+[2025-03-18 14:20:09] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-18 14:20:10] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "---V" 0.15430617332458496s 
+
+[2025-03-18 14:20:10] Element 9 text: ---V
+[2025-03-18 14:20:10] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-18 14:20:10] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Volkswagen" 0.13167572021484375s 
+
+[2025-03-18 14:20:10] Element 10 text: Volkswagen
+[2025-03-18 14:20:10] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-18 14:20:10] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "Volvo" 0.14787888526916504s 
+
+[2025-03-18 14:20:10] Element 11 text: Volvo
+[2025-03-18 14:20:10] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-18 14:20:10] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "---W" 0.14519882202148438s 
+
+[2025-03-18 14:20:10] Element 12 text: ---W
+[2025-03-18 14:20:11] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-18 14:20:11] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "---X" 0.11150693893432617s 
+
+[2025-03-18 14:20:11] Element 13 text: ---X
+[2025-03-18 14:20:11] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-18 14:20:11] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---Y" 0.15329670906066895s 
+
+[2025-03-18 14:20:11] Element 14 text: ---Y
+[2025-03-18 14:20:11] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-18 14:20:11] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "---Z" 0.12589287757873535s 
+
+[2025-03-18 14:20:11] Element 15 text: ---Z
+[2025-03-18 14:20:11] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-18 14:20:12] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "Zaa" 0.19727110862731934s 
+
+[2025-03-18 14:20:12] Element 16 text: Zaa
+[2025-03-18 14:20:12] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-18 14:20:12] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Zbb" 0.13969087600708008s 
+
+[2025-03-18 14:20:12] Element 17 text: Zbb
+[2025-03-18 14:20:12] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-18 14:20:12] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Zcc" 0.10604596138000488s 
+
+[2025-03-18 14:20:12] Element 18 text: Zcc
+[2025-03-19 09:52:27] Environment 'a' is not defined in resources/env.json file!
+[2025-03-19 09:54:04] setting capabilities: {'chromeOptions': {'w3c': False}, 'chromedriverArgs': ['relaxed security'], 'chromeDriverPort': 8100, 'systemPort': 8200, 'appPackage': 'com.example.appfortestautomation', 'appActivity': 'com.example.appfortestautomation.MainActivity', 'adbExecTimeout': 30000, 'platformName': 'android', 'automationName': 'UiAutomator2', 'deviceName': 'Device', 'enforceAppInstall': True, 'udid': 'RFCWB13GMAA'}
+[2025-03-19 09:54:04] starting appium driver...
+[2025-03-19 09:54:04] running: appium -p 4723
+[2025-03-19 09:54:04] setting device for automation: RFCWB13GMAA
+[2025-03-19 09:54:20] appium running on http://localhost:4723. 
+
+[2025-03-19 09:54:20] Device: element "id: headerTitle" has attribute "text" -> "HomeScreen" = "HomeScreen" after 0.5906491279602051s 
+
+[2025-03-19 09:54:20] Device: element "id: headerTitle" has attribute "text" -> "HomeScreen" = "HomeScreen" after 0.0872960090637207s 
+
+[2025-03-19 09:54:21] Device: element "id: headerTitle" has attribute "text" -> "HomeScreen" = "HomeScreen" after 0.0833883285522461s 
+
+[2025-03-19 09:54:21] Device: element "className: android.widget.Button" pressed for 0.17803406715393066s 
+
+[2025-03-19 09:54:22] Device: Element "xpath: //*[contains(@text, 'Part 2')]" was visible in 1.5578370094299316s 
+
+[2025-03-19 09:54:22] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-19 09:54:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "---A" 0.17731618881225586s 
+
+[2025-03-19 09:54:23] Element 1 text: ---A
+[2025-03-19 09:54:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-19 09:54:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Acura" 0.17563509941101074s 
+
+[2025-03-19 09:54:23] Element 2 text: Acura
+[2025-03-19 09:54:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-19 09:54:23] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "Alfa Romeo" 0.1847209930419922s 
+
+[2025-03-19 09:54:23] Element 3 text: Alfa Romeo
+[2025-03-19 09:54:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-19 09:54:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "Audi" 0.19874191284179688s 
+
+[2025-03-19 09:54:24] Element 4 text: Audi
+[2025-03-19 09:54:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-19 09:54:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "---B" 0.22781991958618164s 
+
+[2025-03-19 09:54:24] Element 5 text: ---B
+[2025-03-19 09:54:24] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-19 09:54:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "BMW" 0.22568678855895996s 
+
+[2025-03-19 09:54:25] Element 6 text: BMW
+[2025-03-19 09:54:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-19 09:54:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Bentley" 0.1373751163482666s 
+
+[2025-03-19 09:54:25] Element 7 text: Bentley
+[2025-03-19 09:54:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-19 09:54:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Buick" 0.20175695419311523s 
+
+[2025-03-19 09:54:25] Element 8 text: Buick
+[2025-03-19 09:54:25] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-19 09:54:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "---C" 0.17500805854797363s 
+
+[2025-03-19 09:54:26] Element 9 text: ---C
+[2025-03-19 09:54:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-19 09:54:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Cadillac" 0.14824295043945312s 
+
+[2025-03-19 09:54:26] Element 10 text: Cadillac
+[2025-03-19 09:54:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-19 09:54:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "Chevrolet" 0.1481928825378418s 
+
+[2025-03-19 09:54:26] Element 11 text: Chevrolet
+[2025-03-19 09:54:26] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-19 09:54:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Chrysler" 0.1720569133758545s 
+
+[2025-03-19 09:54:27] Element 12 text: Chrysler
+[2025-03-19 09:54:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-19 09:54:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "---D" 0.16743898391723633s 
+
+[2025-03-19 09:54:27] Element 13 text: ---D
+[2025-03-19 09:54:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-19 09:54:27] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "Dodge" 0.18412184715270996s 
+
+[2025-03-19 09:54:27] Element 14 text: Dodge
+[2025-03-19 09:54:28] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-19 09:54:28] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "---E" 0.19316720962524414s 
+
+[2025-03-19 09:54:28] Element 15 text: ---E
+[2025-03-19 09:54:28] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-19 09:54:28] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "---F" 0.15774178504943848s 
+
+[2025-03-19 09:54:28] Element 16 text: ---F
+[2025-03-19 09:54:28] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-19 09:54:28] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Fiat" 0.1922919750213623s 
+
+[2025-03-19 09:54:28] Element 17 text: Fiat
+[2025-03-19 09:54:29] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-19 09:54:29] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Ford" 0.15986037254333496s 
+
+[2025-03-19 09:54:29] Element 18 text: Ford
+[2025-03-19 09:54:29] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is not visible 
+
+[2025-03-19 09:54:33] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-19 09:54:34] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Fiat" 0.12806081771850586s 
+
+[2025-03-19 09:54:34] Element 1 text: Fiat
+[2025-03-19 09:54:34] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-19 09:54:34] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Ford" 0.1532890796661377s 
+
+[2025-03-19 09:54:34] Element 2 text: Ford
+[2025-03-19 09:54:34] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-19 09:54:34] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "---G" 0.16922903060913086s 
+
+[2025-03-19 09:54:34] Element 3 text: ---G
+[2025-03-19 09:54:34] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-19 09:54:35] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "GMC" 0.20104026794433594s 
+
+[2025-03-19 09:54:35] Element 4 text: GMC
+[2025-03-19 09:54:35] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-19 09:54:35] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "Genesis" 0.14929485321044922s 
+
+[2025-03-19 09:54:35] Element 5 text: Genesis
+[2025-03-19 09:54:35] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-19 09:54:35] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "---H" 0.12598490715026855s 
+
+[2025-03-19 09:54:35] Element 6 text: ---H
+[2025-03-19 09:54:35] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-19 09:54:35] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Honda" 0.15098190307617188s 
+
+[2025-03-19 09:54:35] Element 7 text: Honda
+[2025-03-19 09:54:36] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-19 09:54:36] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Hyundai" 0.10610318183898926s 
+
+[2025-03-19 09:54:36] Element 8 text: Hyundai
+[2025-03-19 09:54:36] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-19 09:54:36] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "---I" 0.1684858798980713s 
+
+[2025-03-19 09:54:36] Element 9 text: ---I
+[2025-03-19 09:54:36] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-19 09:54:36] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Infiniti" 0.1472620964050293s 
+
+[2025-03-19 09:54:36] Element 10 text: Infiniti
+[2025-03-19 09:54:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-19 09:54:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "---J" 0.14884185791015625s 
+
+[2025-03-19 09:54:37] Element 11 text: ---J
+[2025-03-19 09:54:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-19 09:54:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Jaguar" 0.1322650909423828s 
+
+[2025-03-19 09:54:37] Element 12 text: Jaguar
+[2025-03-19 09:54:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-19 09:54:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "Jeep" 0.1267383098602295s 
+
+[2025-03-19 09:54:37] Element 13 text: Jeep
+[2025-03-19 09:54:37] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-19 09:54:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---K" 0.16132020950317383s 
+
+[2025-03-19 09:54:38] Element 14 text: ---K
+[2025-03-19 09:54:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-19 09:54:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "Kia" 0.10115408897399902s 
+
+[2025-03-19 09:54:38] Element 15 text: Kia
+[2025-03-19 09:54:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-19 09:54:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "---L" 0.168381929397583s 
+
+[2025-03-19 09:54:38] Element 16 text: ---L
+[2025-03-19 09:54:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-19 09:54:38] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Land Rover" 0.17656993865966797s 
+
+[2025-03-19 09:54:38] Element 17 text: Land Rover
+[2025-03-19 09:54:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-19 09:54:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Lexus" 0.1632099151611328s 
+
+[2025-03-19 09:54:39] Element 18 text: Lexus
+[2025-03-19 09:54:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is visible 
+
+[2025-03-19 09:54:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" has text "Lincoln" 0.13573503494262695s 
+
+[2025-03-19 09:54:39] Element 19 text: Lincoln
+[2025-03-19 09:54:39] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][20]" is not visible 
+
+[2025-03-19 09:54:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-19 09:54:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Lexus" 0.16288495063781738s 
+
+[2025-03-19 09:54:44] Element 1 text: Lexus
+[2025-03-19 09:54:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-19 09:54:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Lincoln" 0.13286805152893066s 
+
+[2025-03-19 09:54:44] Element 2 text: Lincoln
+[2025-03-19 09:54:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-19 09:54:44] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "Lotus" 0.1624457836151123s 
+
+[2025-03-19 09:54:45] Element 3 text: Lotus
+[2025-03-19 09:54:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-19 09:54:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "---M" 0.15919113159179688s 
+
+[2025-03-19 09:54:45] Element 4 text: ---M
+[2025-03-19 09:54:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-19 09:54:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "Maserati" 0.16720795631408691s 
+
+[2025-03-19 09:54:45] Element 5 text: Maserati
+[2025-03-19 09:54:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-19 09:54:45] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "Mazda" 0.1608428955078125s 
+
+[2025-03-19 09:54:45] Element 6 text: Mazda
+[2025-03-19 09:54:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-19 09:54:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Mercedes-Benz" 0.13778090476989746s 
+
+[2025-03-19 09:54:46] Element 7 text: Mercedes-Benz
+[2025-03-19 09:54:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-19 09:54:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Mercury*" 0.14820599555969238s 
+
+[2025-03-19 09:54:46] Element 8 text: Mercury*
+[2025-03-19 09:54:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-19 09:54:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "Mini" 0.1757650375366211s 
+
+[2025-03-19 09:54:46] Element 9 text: Mini
+[2025-03-19 09:54:46] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-19 09:54:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Mitsubishi" 0.13364195823669434s 
+
+[2025-03-19 09:54:47] Element 10 text: Mitsubishi
+[2025-03-19 09:54:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-19 09:54:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "---N" 0.14970088005065918s 
+
+[2025-03-19 09:54:47] Element 11 text: ---N
+[2025-03-19 09:54:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-19 09:54:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Nikola" 0.12652182579040527s 
+
+[2025-03-19 09:54:47] Element 12 text: Nikola
+[2025-03-19 09:54:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-19 09:54:47] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "Nissan" 0.1434650421142578s 
+
+[2025-03-19 09:54:47] Element 13 text: Nissan
+[2025-03-19 09:54:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-19 09:54:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---O" 0.11588716506958008s 
+
+[2025-03-19 09:54:48] Element 14 text: ---O
+[2025-03-19 09:54:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-19 09:54:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "---P" 0.15320277214050293s 
+
+[2025-03-19 09:54:48] Element 15 text: ---P
+[2025-03-19 09:54:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-19 09:54:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "Polestar" 0.14322304725646973s 
+
+[2025-03-19 09:54:48] Element 16 text: Polestar
+[2025-03-19 09:54:48] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-19 09:54:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Pontiac*" 0.12151908874511719s 
+
+[2025-03-19 09:54:49] Element 17 text: Pontiac*
+[2025-03-19 09:54:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-19 09:54:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Porsche" 0.13518691062927246s 
+
+[2025-03-19 09:54:49] Element 18 text: Porsche
+[2025-03-19 09:54:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is visible 
+
+[2025-03-19 09:54:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" has text "---Q" 0.15984511375427246s 
+
+[2025-03-19 09:54:49] Element 19 text: ---Q
+[2025-03-19 09:54:49] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][20]" is not visible 
+
+[2025-03-19 09:54:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-19 09:54:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Porsche" 0.126115083694458s 
+
+[2025-03-19 09:54:54] Element 1 text: Porsche
+[2025-03-19 09:54:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-19 09:54:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "---Q" 0.13769769668579102s 
+
+[2025-03-19 09:54:54] Element 2 text: ---Q
+[2025-03-19 09:54:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-19 09:54:54] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "---R" 0.14245891571044922s 
+
+[2025-03-19 09:54:54] Element 3 text: ---R
+[2025-03-19 09:54:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-19 09:54:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "Ram" 0.13284921646118164s 
+
+[2025-03-19 09:54:55] Element 4 text: Ram
+[2025-03-19 09:54:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-19 09:54:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "Rivian" 0.12932491302490234s 
+
+[2025-03-19 09:54:55] Element 5 text: Rivian
+[2025-03-19 09:54:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-19 09:54:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "Rolls-Royce" 0.13057994842529297s 
+
+[2025-03-19 09:54:55] Element 6 text: Rolls-Royce
+[2025-03-19 09:54:55] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-19 09:54:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "---S" 0.18766498565673828s 
+
+[2025-03-19 09:54:56] Element 7 text: ---S
+[2025-03-19 09:54:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-19 09:54:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "Saab" 0.1492919921875s 
+
+[2025-03-19 09:54:56] Element 8 text: Saab
+[2025-03-19 09:54:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-19 09:54:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "Saturn*" 0.15575814247131348s 
+
+[2025-03-19 09:54:56] Element 9 text: Saturn*
+[2025-03-19 09:54:56] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-19 09:54:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Scion*" 0.13538503646850586s 
+
+[2025-03-19 09:54:57] Element 10 text: Scion*
+[2025-03-19 09:54:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-19 09:54:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "Smart" 0.14659404754638672s 
+
+[2025-03-19 09:54:57] Element 11 text: Smart
+[2025-03-19 09:54:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-19 09:54:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "Subaru" 0.12894511222839355s 
+
+[2025-03-19 09:54:57] Element 12 text: Subaru
+[2025-03-19 09:54:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-19 09:54:57] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "Suzuki*" 0.1563429832458496s 
+
+[2025-03-19 09:54:57] Element 13 text: Suzuki*
+[2025-03-19 09:54:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-19 09:54:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---T" 0.12615084648132324s 
+
+[2025-03-19 09:54:58] Element 14 text: ---T
+[2025-03-19 09:54:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-19 09:54:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "Tesla" 0.1398317813873291s 
+
+[2025-03-19 09:54:58] Element 15 text: Tesla
+[2025-03-19 09:54:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-19 09:54:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "Toyota" 0.10974478721618652s 
+
+[2025-03-19 09:54:58] Element 16 text: Toyota
+[2025-03-19 09:54:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-19 09:54:58] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "---U" 0.16231989860534668s 
+
+[2025-03-19 09:54:58] Element 17 text: ---U
+[2025-03-19 09:54:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-19 09:54:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "---V" 0.1383800506591797s 
+
+[2025-03-19 09:54:59] Element 18 text: ---V
+[2025-03-19 09:54:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" is visible 
+
+[2025-03-19 09:54:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][19]" has text "Volkswagen" 0.13628387451171875s 
+
+[2025-03-19 09:54:59] Element 19 text: Volkswagen
+[2025-03-19 09:54:59] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][20]" is not visible 
+
+[2025-03-19 09:55:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" is visible 
+
+[2025-03-19 09:55:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][1]" has text "Scion*" 0.13357186317443848s 
+
+[2025-03-19 09:55:04] Element 1 text: Scion*
+[2025-03-19 09:55:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" is visible 
+
+[2025-03-19 09:55:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][2]" has text "Smart" 0.0941460132598877s 
+
+[2025-03-19 09:55:04] Element 2 text: Smart
+[2025-03-19 09:55:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" is visible 
+
+[2025-03-19 09:55:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][3]" has text "Subaru" 0.1414473056793213s 
+
+[2025-03-19 09:55:04] Element 3 text: Subaru
+[2025-03-19 09:55:04] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" is visible 
+
+[2025-03-19 09:55:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][4]" has text "Suzuki*" 0.1446518898010254s 
+
+[2025-03-19 09:55:05] Element 4 text: Suzuki*
+[2025-03-19 09:55:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" is visible 
+
+[2025-03-19 09:55:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][5]" has text "---T" 0.128251314163208s 
+
+[2025-03-19 09:55:05] Element 5 text: ---T
+[2025-03-19 09:55:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" is visible 
+
+[2025-03-19 09:55:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][6]" has text "Tesla" 0.13384580612182617s 
+
+[2025-03-19 09:55:05] Element 6 text: Tesla
+[2025-03-19 09:55:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" is visible 
+
+[2025-03-19 09:55:05] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][7]" has text "Toyota" 0.17139077186584473s 
+
+[2025-03-19 09:55:05] Element 7 text: Toyota
+[2025-03-19 09:55:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" is visible 
+
+[2025-03-19 09:55:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][8]" has text "---U" 0.15433073043823242s 
+
+[2025-03-19 09:55:06] Element 8 text: ---U
+[2025-03-19 09:55:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" is visible 
+
+[2025-03-19 09:55:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][9]" has text "---V" 0.12589001655578613s 
+
+[2025-03-19 09:55:06] Element 9 text: ---V
+[2025-03-19 09:55:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" is visible 
+
+[2025-03-19 09:55:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][10]" has text "Volkswagen" 0.14513087272644043s 
+
+[2025-03-19 09:55:06] Element 10 text: Volkswagen
+[2025-03-19 09:55:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" is visible 
+
+[2025-03-19 09:55:06] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][11]" has text "Volvo" 0.09628582000732422s 
+
+[2025-03-19 09:55:06] Element 11 text: Volvo
+[2025-03-19 09:55:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" is visible 
+
+[2025-03-19 09:55:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][12]" has text "---W" 0.13103222846984863s 
+
+[2025-03-19 09:55:07] Element 12 text: ---W
+[2025-03-19 09:55:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" is visible 
+
+[2025-03-19 09:55:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][13]" has text "---X" 0.1260697841644287s 
+
+[2025-03-19 09:55:07] Element 13 text: ---X
+[2025-03-19 09:55:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" is visible 
+
+[2025-03-19 09:55:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][14]" has text "---Y" 0.1334846019744873s 
+
+[2025-03-19 09:55:07] Element 14 text: ---Y
+[2025-03-19 09:55:07] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" is visible 
+
+[2025-03-19 09:55:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][15]" has text "---Z" 0.1405930519104004s 
+
+[2025-03-19 09:55:08] Element 15 text: ---Z
+[2025-03-19 09:55:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" is visible 
+
+[2025-03-19 09:55:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][16]" has text "Zaa" 0.1265721321105957s 
+
+[2025-03-19 09:55:08] Element 16 text: Zaa
+[2025-03-19 09:55:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" is visible 
+
+[2025-03-19 09:55:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][17]" has text "Zbb" 0.13233399391174316s 
+
+[2025-03-19 09:55:08] Element 17 text: Zbb
+[2025-03-19 09:55:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" is visible 
+
+[2025-03-19 09:55:08] Device: element "xpath: //android.widget.TextView[@resource-id='com.example.appfortestautomation:id/textView'][18]" has text "Zcc" 0.1563551425933838s 
+
+[2025-03-19 09:55:08] Element 18 text: Zcc

@@ -1,4 +1,5 @@
 """Module providing Environment Setup/TearDown"""
+import json
 from datetime import datetime
 import glob
 import os
@@ -8,6 +9,7 @@ import allure
 from testui.support.appium_driver import NewDriver
 from allure_commons.types import AttachmentType
 from allure_behave.hooks import allure_report
+from testui.support.logger import log_info
 
 from features.pages.base_page import BasePage
 from features.pages.home_page import HomePage
@@ -38,17 +40,29 @@ def before_all(_context):
 def before_scenario(context, scenario):
     """SetUP Fixtures for Test Scenarios Execution"""
     print(f'-- Start Scenario: {scenario} --')
-    context.driver = (
-        NewDriver().set_full_reset(True)
-            .set_platform("android")
-            .set_udid("RFCWB13GMAA")  # Change UDID for iOS device
-            .set_app_package_activity(
-        'com.example.appfortestautomation', 
-        'com.example.appfortestautomation.MainActivity'
-        )
-            .set_logger("behave")
-            .set_appium_driver()
-    )
+
+    env = os.getenv("ENV")
+    if not env:
+        raise ValueError(log_info("TEST environment variable is not set!"))
+
+    with open('resources/env.json', 'r') as file:
+        data = json.load(file)
+
+    if env not in data:
+        raise ValueError(log_info(f"Environment '{env}' is not defined in {file.name} file!"))
+
+    env_data = data[env]
+
+    driver_builder = NewDriver().set_full_reset(True).set_platform(env_data["platform"]).set_udid(env_data["udid"])
+
+    if env_data["platform"].lower() == "android":
+        driver_builder.set_app_package_activity(env_data["pckg"], env_data["activity"])
+    elif env_data["platform"].lower() == "ios":
+        driver_builder.set_bundle_id(env_data["bundleId"])
+    else:
+        raise ValueError(log_info(f"Unsupported platform: {env_data['platform']}"))
+
+    context.driver = driver_builder.set_logger("behave").set_appium_driver()
     context.driver.configuration.save_full_stacktrace = False
     context.base_page = BasePage(context.driver)
     context.home_page = HomePage(context.driver)

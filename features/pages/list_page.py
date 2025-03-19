@@ -3,6 +3,7 @@ import time
 
 from appium.webdriver.common.touch_action import TouchAction
 from testui.elements.testui_element import e
+from testui.support.logger import log_info
 from features.pages.home_page import HomePage
 
 
@@ -61,7 +62,8 @@ class ListPage(HomePage):
                     continue
 
                 text = car_brand_element.get_text()
-                print(f"Element {index} text: {text}")
+                log_info(f"Element {index} text: {text}")
+                # print(f"Element {index} text: {text}")
 
                 if text and "---" not in text and text not in seen:
                     seen.add(text)  # Mark as seen
